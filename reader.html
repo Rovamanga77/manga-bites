@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Manga Bites — Reader</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <h1><a href="/">Manga Bites</a></h1>
+    <button onclick="history.back()">Back</button>
+  </div>
+</header>
+<main class="container" id="reader"></main>
+<script>
+(async()=>{
+const params = new URLSearchParams(window.location.search);
+const mId = params.get('m');
+const cId = params.get('c');
+const db = await fetch('data/database.json').then(r=>r.json()).catch(e=>({manga:[]}));
+const manga = db.manga.find(m=>m.id===mId);
+const chapter = manga?.chapters.find(c=>c.id===cId);
+const container = document.getElementById('reader');
+if(chapter){
+container.innerHTML=`<h2>${manga.title} — ${chapter.title}</h2>`+chapter.images.map(img=>`<img src="${img}">`).join('');
+}else{
+container.innerHTML="<p>Chapter not found</p>";
+}
+})();
+</script>
+</body>
+</html>
