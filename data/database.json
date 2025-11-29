@@ -1,17 +1,125 @@
 {
-  "manga": [
+  "manga":[
     {
       "id":"1",
-      "title":"Example Manga",
-      "thumb":"assets/img/placeholder.jpg",
-      "summary":"Short summary of example manga...",
-      "genres":["Action","Fantasy"],
-      "tags":["adventure","magic"],
+      "title":"One Piece",
+      "thumb":"https://i.imgur.com/1yL3p9S.jpg",
+      "summary":"Follow Monkey D. Luffy on his adventure to become the Pirate King.",
+      "genres":["Action","Adventure","Fantasy"],
+      "tags":["pirate","adventure","friendship"],
       "updated":"2025-11-29",
       "chapters":[
-        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/EXAMPLE1.jpg"]},
-        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/EXAMPLE2.jpg"]}
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/1A1aXk1.jpg","https://i.imgur.com/1A1aXk2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/1A1aXk3.jpg","https://i.imgur.com/1A1aXk4.jpg"]}
+      ]
+    },
+    {
+      "id":"2",
+      "title":"Naruto",
+      "thumb":"https://i.imgur.com/2h3F5Df.jpg",
+      "summary":"The journey of Naruto Uzumaki, a ninja seeking recognition.",
+      "genres":["Action","Adventure","Fantasy"],
+      "tags":["ninja","adventure","friendship"],
+      "updated":"2025-11-28",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/2B2bYk1.jpg","https://i.imgur.com/2B2bYk2.jpg"]}
+      ]
+    },
+    {
+      "id":"3",
+      "title":"Dragon Ball",
+      "thumb":"https://i.imgur.com/3kP4lRf.jpg",
+      "summary":"Goku trains and fights powerful enemies to protect Earth.",
+      "genres":["Action","Adventure","Fantasy"],
+      "tags":["martial arts","adventure","fantasy"],
+      "updated":"2025-11-27",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/3C3cYk1.jpg","https://i.imgur.com/3C3cYk2.jpg"]}
+      ]
+    },
+    {
+      "id":"4",
+      "title":"Demon Slayer",
+      "thumb":"https://i.imgur.com/4dF7lGh.jpg",
+      "summary":"Tanjiro fights demons to save his sister Nezuko.",
+      "genres":["Action","Adventure","Supernatural"],
+      "tags":["demon","brother","sword"],
+      "updated":"2025-11-26",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/4D4dYk1.jpg","https://i.imgur.com/4D4dYk2.jpg"]}
+      ]
+    },
+    {
+      "id":"5",
+      "title":"My Hero Academia",
+      "thumb":"https://i.imgur.com/5fG8mIj.jpg",
+      "summary":"Izuku Midoriya attends UA High to become a hero.",
+      "genres":["Action","Adventure","Superhero"],
+      "tags":["heroes","school","powers"],
+      "updated":"2025-11-25",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/5E5eYk1.jpg","https://i.imgur.com/5E5eYk2.jpg"]}
+      ]
+    },
+    {
+      "id":"6",
+      "title":"Attack on Titan",
+      "thumb":"https://i.imgur.com/6hH9nKj.jpg",
+      "summary":"Humanity fights against gigantic humanoid Titans.",
+      "genres":["Action","Drama","Fantasy"],
+      "tags":["titan","survival","war"],
+      "updated":"2025-11-24",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/6F6fYk1.jpg","https://i.imgur.com/6F6fYk2.jpg"]}
+      ]
+    },
+    {
+      "id":"7",
+      "title":"Jujutsu Kaisen",
+      "thumb":"https://i.imgur.com/7iJ0lLk.jpg",
+      "summary":"Yuji fights curses while mastering his supernatural powers.",
+      "genres":["Action","Supernatural","Adventure"],
+      "tags":["curses","magic","fight"],
+      "updated":"2025-11-23",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/7J7jYk1.jpg","https://i.imgur.com/7J7jYk2.jpg"]}
+      ]
+    },
+    {
+      "id":"8",
+      "title":"Tokyo Revengers",
+      "thumb":"https://i.imgur.com/8kK1mMn.jpg",
+      "summary":"Takemichi travels back in time to save his friends from gangs.",
+      "genres":["Action","Drama","Time Travel"],
+      "tags":["gang","friendship","time travel"],
+      "updated":"2025-11-22",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/8L8lYk1.jpg","https://i.imgur.com/8L8lYk2.jpg"]}
+      ]
+    },
+    {
+      "id":"9",
+      "title":"Black Clover",
+      "thumb":"https://i.imgur.com/9mL2nOp.jpg",
+      "summary":"Asta dreams of becoming the Wizard King despite having no magic.",
+      "genres":["Action","Fantasy","Adventure"],
+      "tags":["magic","wizard","adventure"],
+      "updated":"2025-11-21",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/9N9nYk1.jpg","https://i.imgur.com/9N9nYk2.jpg"]}
+      ]
+    },
+    {
+      "id":"10",
+      "title":"Bleach",
+      "thumb":"https://i.imgur.com/10oP3Qr.jpg",
+      "summary":"Ichigo becomes a Soul Reaper and fights evil spirits.",
+      "genres":["Action","Adventure","Supernatural"],
+      "tags":["soul reaper","fight","spirits"],
+      "updated":"2025-11-20",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/10N10k1.jpg","https://i.imgur.com/10N10k2.jpg"]}
       ]
     }
   ]
-}
+    }
