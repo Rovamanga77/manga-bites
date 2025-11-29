@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manga Bites - Reader</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <h1>Manga Bites - Reader</h1>
+    <a href="index.html" class="back-link">← Back to Home</a>
+  </header>
+
+  <main>
+    <div id="chapterImages" class="chapter-images"></div>
+  </main>
+
+  <footer>
+    <p>© 2025 Manga Bites</p>
+  </footer>
+
+  <script src="assets/script.js"></script>
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const mangaId = urlParams.get('manga');
+    const chapterId = urlParams.get('chapter');
+    const chapterImages = document.getElementById('chapterImages');
+
+    fetch('data/manga.json')
+      .then(res => res.json())
+      .then(data => {
+        const manga = data.manga.find(m => m.id === mangaId);
+        if (!manga) {
+          chapterImages.innerHTML = "<p>Manga not found!</p>";
+          return;
+        }
+
+        const chapter = manga.chapters.find(c => c.id === chapterId);
+        if (!chapter) {
+          chapterImages.innerHTML = "<p>Chapter not found!</p>";
+          return;
+        }
+
+        // Show chapter images
+        chapter.images.forEach(imgUrl => {
+          const img = document.createElement('img');
+          img.src = imgUrl;
+          img.alt = chapter.title;
+          img.classList.add('chapter-img');
+          chapterImages.appendChild(img);
+        });
+      });
+  </script>
+</body>
+</html>
