@@ -10,7 +10,8 @@
       "updated":"2025-11-29",
       "chapters":[
         {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/1A1aXk1.jpg","https://i.imgur.com/1A1aXk2.jpg"]},
-        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/1A1aXk3.jpg","https://i.imgur.com/1A1aXk4.jpg"]}
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/1A1aXk3.jpg","https://i.imgur.com/1A1aXk4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/1A1aXk5.jpg","https://i.imgur.com/1A1aXk6.jpg"]}
       ]
     },
     {
@@ -22,7 +23,9 @@
       "tags":["ninja","adventure","friendship"],
       "updated":"2025-11-28",
       "chapters":[
-        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/2B2bYk1.jpg","https://i.imgur.com/2B2bYk2.jpg"]}
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/2B2bYk1.jpg","https://i.imgur.com/2B2bYk2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/2B2bYk3.jpg","https://i.imgur.com/2B2bYk4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/2B2bYk5.jpg","https://i.imgur.com/2B2bYk6.jpg"]}
       ]
     },
     {
@@ -34,7 +37,9 @@
       "tags":["martial arts","adventure","fantasy"],
       "updated":"2025-11-27",
       "chapters":[
-        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/3C3cYk1.jpg","https://i.imgur.com/3C3cYk2.jpg"]}
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/3C3cYk1.jpg","https://i.imgur.com/3C3cYk2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/3C3cYk3.jpg","https://i.imgur.com/3C3cYk4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/3C3cYk5.jpg","https://i.imgur.com/3C3cYk6.jpg"]}
       ]
     },
     {
@@ -46,7 +51,9 @@
       "tags":["demon","brother","sword"],
       "updated":"2025-11-26",
       "chapters":[
-        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/4D4dYk1.jpg","https://i.imgur.com/4D4dYk2.jpg"]}
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/4D4dYk1.jpg","https://i.imgur.com/4D4dYk2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/4D4dYk3.jpg","https://i.imgur.com/4D4dYk4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/4D4dYk5.jpg","https://i.imgur.com/4D4dYk6.jpg"]}
       ]
     },
     {
@@ -58,9 +65,15 @@
       "tags":["heroes","school","powers"],
       "updated":"2025-11-25",
       "chapters":[
-        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/5E5eYk1.jpg","https://i.imgur.com/5E5eYk2.jpg"]}
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/5E5eYk1.jpg","https://i.imgur.com/5E5eYk2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/5E5eYk3.jpg","https://i.imgur.com/5E5eYk4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/5E5eYk5.jpg","https://i.imgur.com/5E5eYk6.jpg"]}
       ]
-    },
+    }
+  ]
+    }
+{
+  "manga":[
     {
       "id":"6",
       "title":"Attack on Titan",
@@ -70,7 +83,9 @@
       "tags":["titan","survival","war"],
       "updated":"2025-11-24",
       "chapters":[
-        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/6F6fYk1.jpg","https://i.imgur.com/6F6fYk2.jpg"]}
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/6F6fYk1.jpg","https://i.imgur.com/6F6fYk2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/6F6fYk3.jpg","https://i.imgur.com/6F6fYk4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/6F6fYk5.jpg","https://i.imgur.com/6F6fYk6.jpg"]}
       ]
     },
     {
@@ -82,7 +97,9 @@
       "tags":["curses","magic","fight"],
       "updated":"2025-11-23",
       "chapters":[
-        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/7J7jYk1.jpg","https://i.imgur.com/7J7jYk2.jpg"]}
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/7J7jYk1.jpg","https://i.imgur.com/7J7jYk2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/7J7jYk3.jpg","https://i.imgur.com/7J7jYk4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/7J7jYk5.jpg","https://i.imgur.com/7J7jYk6.jpg"]}
       ]
     },
     {
@@ -94,7 +111,9 @@
       "tags":["gang","friendship","time travel"],
       "updated":"2025-11-22",
       "chapters":[
-        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/8L8lYk1.jpg","https://i.imgur.com/8L8lYk2.jpg"]}
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/8L8lYk1.jpg","https://i.imgur.com/8L8lYk2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/8L8lYk3.jpg","https://i.imgur.com/8L8lYk4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/8L8lYk5.jpg","https://i.imgur.com/8L8lYk6.jpg"]}
       ]
     },
     {
@@ -106,7 +125,9 @@
       "tags":["magic","wizard","adventure"],
       "updated":"2025-11-21",
       "chapters":[
-        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/9N9nYk1.jpg","https://i.imgur.com/9N9nYk2.jpg"]}
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/9N9nYk1.jpg","https://i.imgur.com/9N9nYk2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/9N9nYk3.jpg","https://i.imgur.com/9N9nYk4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/9N9nYk5.jpg","https://i.imgur.com/9N9nYk6.jpg"]}
       ]
     },
     {
@@ -118,8 +139,306 @@
       "tags":["soul reaper","fight","spirits"],
       "updated":"2025-11-20",
       "chapters":[
-        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/10N10k1.jpg","https://i.imgur.com/10N10k2.jpg"]}
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/10N10k1.jpg","https://i.imgur.com/10N10k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/10N10k3.jpg","https://i.imgur.com/10N10k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/10N10k5.jpg","https://i.imgur.com/10N10k6.jpg"]}
       ]
     }
   ]
     }
+{
+  "manga":[
+    {
+      "id":"11",
+      "title":"Fairy Tail",
+      "thumb":"https://i.imgur.com/F1aL7yR.jpg",
+      "summary":"Natsu and friends embark on magical adventures in the Fairy Tail guild.",
+      "genres":["Action","Adventure","Fantasy"],
+      "tags":["magic","guild","friendship"],
+      "updated":"2025-11-19",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/F1F1k1.jpg","https://i.imgur.com/F1F1k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/F1F1k3.jpg","https://i.imgur.com/F1F1k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/F1F1k5.jpg","https://i.imgur.com/F1F1k6.jpg"]}
+      ]
+    },
+    {
+      "id":"12",
+      "title":"Black Butler",
+      "thumb":"https://i.imgur.com/B2bL7zR.jpg",
+      "summary":"Ciel Phantomhive and his demon butler Sebastian solve mysteries.",
+      "genres":["Action","Supernatural","Mystery"],
+      "tags":["butler","mystery","supernatural"],
+      "updated":"2025-11-18",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/B2B2k1.jpg","https://i.imgur.com/B2B2k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/B2B2k3.jpg","https://i.imgur.com/B2B2k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/B2B2k5.jpg","https://i.imgur.com/B2B2k6.jpg"]}
+      ]
+    },
+    {
+      "id":"13",
+      "title":"Soul Eater",
+      "thumb":"https://i.imgur.com/S3sL8mR.jpg",
+      "summary":"Students at Death Weapon Meister Academy battle evil souls and witches.",
+      "genres":["Action","Adventure","Supernatural"],
+      "tags":["academy","weapon","fight"],
+      "updated":"2025-11-17",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/S3S3k1.jpg","https://i.imgur.com/S3S3k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/S3S3k3.jpg","https://i.imgur.com/S3S3k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/S3S3k5.jpg","https://i.imgur.com/S3S3k6.jpg"]}
+      ]
+    },
+    {
+      "id":"14",
+      "title":"Fullmetal Alchemist",
+      "thumb":"https://i.imgur.com/F4fL9nR.jpg",
+      "summary":"Two brothers use alchemy to try to restore what they lost after a failed experiment.",
+      "genres":["Action","Adventure","Fantasy"],
+      "tags":["alchemy","brothers","adventure"],
+      "updated":"2025-11-16",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/F4F4k1.jpg","https://i.imgur.com/F4F4k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/F4F4k3.jpg","https://i.imgur.com/F4F4k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/F4F4k5.jpg","https://i.imgur.com/F4F4k6.jpg"]}
+      ]
+    },
+    {
+      "id":"15",
+      "title":"Death Note",
+      "thumb":"https://i.imgur.com/D5dL0oR.jpg",
+      "summary":"Light Yagami uses a notebook to eliminate criminals while evading the mysterious detective L.",
+      "genres":["Mystery","Supernatural","Thriller"],
+      "tags":["notebook","detective","death"],
+      "updated":"2025-11-15",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/D5D5k1.jpg","https://i.imgur.com/D5D5k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/D5D5k3.jpg","https://i.imgur.com/D5D5k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/D5D5k5.jpg","https://i.imgur.com/D5D5k6.jpg"]}
+      ]
+    }
+  ]
+    }
+{
+  "manga":[
+    {
+      "id":"16",
+      "title":"Hunter x Hunter",
+      "thumb":"https://i.imgur.com/H1H1mNr.jpg",
+      "summary":"Gon Freecss becomes a Hunter to find his father and uncover adventures.",
+      "genres":["Action","Adventure","Fantasy"],
+      "tags":["hunter","adventure","friendship"],
+      "updated":"2025-11-14",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/H1H1k1.jpg","https://i.imgur.com/H1H1k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/H1H1k3.jpg","https://i.imgur.com/H1H1k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/H1H1k5.jpg","https://i.imgur.com/H1H1k6.jpg"]}
+      ]
+    },
+    {
+      "id":"17",
+      "title":"Blue Exorcist",
+      "thumb":"https://i.imgur.com/B2B2nOr.jpg",
+      "summary":"Rin Okumura, son of Satan, fights demons as an exorcist.",
+      "genres":["Action","Supernatural","Adventure"],
+      "tags":["demon","exorcist","fight"],
+      "updated":"2025-11-13",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/B2B2k7.jpg","https://i.imgur.com/B2B2k8.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/B2B2k9.jpg","https://i.imgur.com/B2B2k10.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/B2B2k11.jpg","https://i.imgur.com/B2B2k12.jpg"]}
+      ]
+    },
+    {
+      "id":"18",
+      "title":"Fairy Gone",
+      "thumb":"https://i.imgur.com/F3F3pPr.jpg",
+      "summary":"Soldiers with magical abilities fight in a war-torn land.",
+      "genres":["Action","Fantasy","Drama"],
+      "tags":["magic","war","soldiers"],
+      "updated":"2025-11-12",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/F3F3k1.jpg","https://i.imgur.com/F3F3k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/F3F3k3.jpg","https://i.imgur.com/F3F3k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/F3F3k5.jpg","https://i.imgur.com/F3F3k6.jpg"]}
+      ]
+    },
+    {
+      "id":"19",
+      "title":"Noragami",
+      "thumb":"https://i.imgur.com/N1N1lOr.jpg",
+      "summary":"A stray god, Yato, helps humans while trying to become famous.",
+      "genres":["Action","Supernatural","Comedy"],
+      "tags":["god","spiritual","adventure"],
+      "updated":"2025-11-11",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/N1N1k1.jpg","https://i.imgur.com/N1N1k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/N1N1k3.jpg","https://i.imgur.com/N1N1k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/N1N1k5.jpg","https://i.imgur.com/N1N1k6.jpg"]}
+      ]
+    },
+    {
+      "id":"20",
+      "title":"Seven Deadly Sins",
+      "thumb":"https://i.imgur.com/S7S7oPr.jpg",
+      "summary":"Knights fight to protect the kingdom and fight against corruption.",
+      "genres":["Action","Adventure","Fantasy"],
+      "tags":["knights","magic","adventure"],
+      "updated":"2025-11-10",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/S7S7k1.jpg","https://i.imgur.com/S7S7k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/S7S7k3.jpg","https://i.imgur.com/S7S7k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/S7S7k5.jpg","https://i.imgur.com/S7S7k6.jpg"]}
+      ]
+    }
+  ]
+          }
+{
+  "manga":[
+    {
+      "id":"21",
+      "title":"Akame ga Kill!",
+      "thumb":"https://i.imgur.com/A1A1pQr.jpg",
+      "summary":"Night Raid assassins fight corruption in the empire.",
+      "genres":["Action","Adventure","Fantasy"],
+      "tags":["assassin","corruption","fight"],
+      "updated":"2025-11-09",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/A1A1k1.jpg","https://i.imgur.com/A1A1k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/A1A1k3.jpg","https://i.imgur.com/A1A1k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/A1A1k5.jpg","https://i.imgur.com/A1A1k6.jpg"]}
+      ]
+    },
+    {
+      "id":"22",
+      "title":"Claymore",
+      "thumb":"https://i.imgur.com/C2C2lQr.jpg",
+      "summary":"Female warriors fight monstrous Yoma to protect humanity.",
+      "genres":["Action","Adventure","Supernatural"],
+      "tags":["warrior","monster","fight"],
+      "updated":"2025-11-08",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/C2C2k1.jpg","https://i.imgur.com/C2C2k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/C2C2k3.jpg","https://i.imgur.com/C2C2k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/C2C2k5.jpg","https://i.imgur.com/C2C2k6.jpg"]}
+      ]
+    },
+    {
+      "id":"23",
+      "title":"Vivy: Fluorite Eye’s Song",
+      "thumb":"https://i.imgur.com/V3V3oQr.jpg",
+      "summary":"An AI singer fights to protect humanity with her music.",
+      "genres":["Action","Sci-Fi","Music"],
+      "tags":["AI","singer","future"],
+      "updated":"2025-11-07",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/V3V3k1.jpg","https://i.imgur.com/V3V3k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/V3V3k3.jpg","https://i.imgur.com/V3V3k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/V3V3k5.jpg","https://i.imgur.com/V3V3k6.jpg"]}
+      ]
+    },
+    {
+      "id":"24",
+      "title":"Black Lagoon",
+      "thumb":"https://i.imgur.com/B4B4lQr.jpg",
+      "summary":"A group of mercenaries gets involved in criminal activities in Southeast Asia.",
+      "genres":["Action","Crime","Adventure"],
+      "tags":["mercenary","crime","guns"],
+      "updated":"2025-11-06",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/B4B4k1.jpg","https://i.imgur.com/B4B4k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/B4B4k3.jpg","https://i.imgur.com/B4B4k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/B4B4k5.jpg","https://i.imgur.com/B4B4k6.jpg"]}
+      ]
+    },
+    {
+      "id":"25",
+      "title":"Erased",
+      "thumb":"https://i.imgur.com/E5E5pQr.jpg",
+      "summary":"A man travels back in time to prevent a series of murders.",
+      "genres":["Mystery","Thriller","Drama"],
+      "tags":["time travel","murder","detective"],
+      "updated":"2025-11-05",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/E5E5k1.jpg","https://i.imgur.com/E5E5k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/E5E5k3.jpg","https://i.imgur.com/E5E5k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/E5E5k5.jpg","https://i.imgur.com/E5E5k6.jpg"]}
+      ]
+    }
+  ]
+    }
+{
+  "manga":[
+    {
+      "id":"26",
+      "title":"Re:Zero",
+      "thumb":"https://i.imgur.com/R6R6pQr.jpg",
+      "summary":"Subaru Natsuki is transported to another world and must face repeated deaths to save friends.",
+      "genres":["Fantasy","Adventure","Drama"],
+      "tags":["time loop","magic","adventure"],
+      "updated":"2025-11-04",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/R6R6k1.jpg","https://i.imgur.com/R6R6k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/R6R6k3.jpg","https://i.imgur.com/R6R6k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/R6R6k5.jpg","https://i.imgur.com/R6R6k6.jpg"]}
+      ]
+    },
+    {
+      "id":"27",
+      "title":"Goblin Slayer",
+      "thumb":"https://i.imgur.com/G7G7lQr.jpg",
+      "summary":"A man known as Goblin Slayer dedicates his life to exterminating goblins.",
+      "genres":["Action","Adventure","Fantasy"],
+      "tags":["goblin","warrior","dark fantasy"],
+      "updated":"2025-11-03",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/G7G7k1.jpg","https://i.imgur.com/G7G7k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/G7G7k3.jpg","https://i.imgur.com/G7G7k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/G7G7k5.jpg","https://i.imgur.com/G7G7k6.jpg"]}
+      ]
+    },
+    {
+      "id":"28",
+      "title":"Steins;Gate",
+      "thumb":"https://i.imgur.com/S8S8oQr.jpg",
+      "summary":"Okabe and friends discover time travel and face dangerous consequences.",
+      "genres":["Sci-Fi","Thriller","Drama"],
+      "tags":["time travel","science","mystery"],
+      "updated":"2025-11-02",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/S8S8k1.jpg","https://i.imgur.com/S8S8k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/S8S8k3.jpg","https://i.imgur.com/S8S8k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/S8S8k5.jpg","https://i.imgur.com/S8S8k6.jpg"]}
+      ]
+    },
+    {
+      "id":"29",
+      "title":"Parasyte",
+      "thumb":"https://i.imgur.com/P9P9lQr.jpg",
+      "summary":"Shinichi fights parasites that infect humans to survive.",
+      "genres":["Horror","Action","Sci-Fi"],
+      "tags":["parasite","horror","fight"],
+      "updated":"2025-11-01",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/P9P9k1.jpg","https://i.imgur.com/P9P9k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/P9P9k3.jpg","https://i.imgur.com/P9P9k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/P9P9k5.jpg","https://i.imgur.com/P9P9k6.jpg"]}
+      ]
+    },
+    {
+      "id":"30",
+      "title":"Bakuman",
+      "thumb":"https://i.imgur.com/B0B0pQr.jpg",
+      "summary":"Two teens aim to become successful manga creators while facing challenges.",
+      "genres":["Comedy","Drama","Romance"],
+      "tags":["manga","dreams","friendship"],
+      "updated":"2025-10-31",
+      "chapters":[
+        {"id":"c1","title":"Chapter 1","images":["https://i.imgur.com/B0B0k1.jpg","https://i.imgur.com/B0B0k2.jpg"]},
+        {"id":"c2","title":"Chapter 2","images":["https://i.imgur.com/B0B0k3.jpg","https://i.imgur.com/B0B0k4.jpg"]},
+        {"id":"c3","title":"Chapter 3","images":["https://i.imgur.com/B0B0k5.jpg","https://i.imgur.com/B0B0k6.jpg"]}
+      ]
+    }
+  ]
+        }
