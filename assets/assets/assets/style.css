@@ -1,0 +1,40 @@
+#recommended {
+  margin: 40px 0;
+}
+
+#recommended h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #ff4500;
+}
+
+.recommended-list {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.recommended-list .manga-card {
+  width: 150px;
+  text-align: center;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.recommended-list .manga-card:hover {
+  transform: scale(1.05);
+}
+
+.recommended-list .manga-card img {
+  width: 100%;
+  display: block;
+}
+
+.recommended-list .manga-card h3 {
+  font-size: 16px;
+  margin: 10px 0;
+  color: #333;
+}
